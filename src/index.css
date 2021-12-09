@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Encode Sans";
+  font-weight: 700;
+  src:
+    url("fonts/encode-sans-700.woff2") format("woff2"),
+    url("fonts/encode-sans-700.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  font-weight: 300;
+  src:
+    url("fonts/clear-sans-300.woff2") format("woff2"),
+    url("fonts/clear-sans-300.woff") format("woff");
+}
+
+body {
+  background: linear-gradient(to bottom, #503DBD, #2F2086);
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+}

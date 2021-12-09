@@ -1,0 +1,23 @@
+[
+  {
+    "date": "15/MAY/2021",
+    "title": "Avocado",
+    "rating": "5.0",
+    "tags": [
+      "canjeable",
+      "emote"
+    ],
+    "text": "Es el personaje más famoso del canal, al que desde niño le hicieron creer que era una verdura. Ahora, tras una mordida de Michael Jackson, es una paltita que se dedica a bailar en los streams junto a unos doritos.",
+    "link": "https://youtube.com/c/ManzDev"
+  },
+  {
+    "date": "4/DIC/2021",
+    "title": "Spherical Cow",
+    "rating": "5.0",
+    "tags": [
+      "emote"
+    ],
+    "text": "Una vaca sagrada que aprendió a rodar para huir de los OVNIS. Lo aprendió de BB-8. Su complexión hace que sea sencillo huir de los enemigos, no obstante, se puede encontrar por el canal rodando alegremente.",
+    "link": "https://youtube.com/c/ManzDev"
+  }
+]
